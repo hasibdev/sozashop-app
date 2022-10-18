@@ -1,0 +1,674 @@
+{
+  "newKey" :"new",
+  "@accounts": {
+    "label": "Accounts",
+    "title": {
+      "add": "New Account",
+      "details": "Account Details",
+      "edit": "Edit Account",
+      "manage": "Manage Accounts"
+    }
+  },
+  "@admins": {
+    "label": "Admins",
+    "title": {
+      "add": "New Admin",
+      "details": "Admin Details",
+      "edit": "Edit Admin",
+      "manage": "Manage Admins"
+    }
+  },
+  "@banks": {
+    "label": "Banks",
+    "title": {
+      "add": "New Bank",
+      "details": "Bank Details",
+      "edit": "Edit Bank",
+      "manage": "Manage Banks"
+    }
+  },
+  "@barcode": {
+    "label": "Barcode",
+    "title": {
+      "details": "Barcode Details"
+    }
+  },
+  "@buttons": {
+    "add": "Add",
+    "calculate": "Calculate",
+    "cancel": "Cancel",
+    "close": "Close",
+    "printSubmit": "Print and Submit",
+    "save": "Save",
+    "search": "Search",
+    "sendResetLink": "Send Reset Link",
+    "submit": "Submit",
+    "submitContinue": "Submit & Continue",
+    "submitPrint": "Submit and Print",
+    "update": "Update",
+    "updateContinue": "Update & Continue"
+  },
+  "@categories": {
+    "label": "Categories",
+    "title": {
+      "add": "New Category",
+      "details": "Category Details",
+      "edit": "Edit Category",
+      "manage": "Manage Categories"
+    }
+  },
+  "@charges": {
+    "label": "Charges",
+    "title": {
+      "add": "New Charges",
+      "details": "Charges Details",
+      "edit": "Edit Charges"
+    }
+  },
+  "@clients": {
+    "label": "Client",
+    "title": {
+      "add": "New Client",
+      "details": "Client Details",
+      "edit": "Edit Client",
+      "manage": "Manage Clients"
+    }
+  },
+  "@conversions": {
+    "label": "Conversions",
+    "title": {
+      "add": "New Conversion",
+      "details": "Conversion Details",
+      "edit": "Edit Conversion"
+    }
+  },
+  "@countries": {
+    "label": "Countries",
+    "title": {
+      "add": "Add Country",
+      "details": "Country Details",
+      "edit": "Edit Country",
+      "manage": "Manage Countries"
+    }
+  },
+  "@currency": {
+    "label": "Currency",
+    "title": {
+      "add": "New Currency",
+      "details": "Currency Details",
+      "edit": "Edit Currency",
+      "manage": "Manage Currency"
+    }
+  },
+  "@currencySettings": {
+    "label": "Currency Settings",
+    "title": {
+      "edit": "Edit Currency Settings"
+    }
+  },
+  "@customers": {
+    "label": "Customers",
+    "title": {
+      "add": "New Customer",
+      "details": "Customer Details",
+      "edit": "Edit Customer"
+    }
+  },
+  "@expenseCategories": {
+    "label": "Expense Categories",
+    "title": {
+      "add": "New Expense Category",
+      "details": "Expense Category Details",
+      "edit": "Edit Expense Category"
+    }
+  },
+  "@expenseInvoices": {
+    "label": "Expense Invoice",
+    "title": {
+      "add": "New Expense Invoice",
+      "details": "Expense Invoice Details",
+      "edit": "Edit Expense Invoice"
+    }
+  },
+  "@fields": {
+    "account": "Account",
+    "accountEmail": "Account Email",
+    "accountHolderName": "Account Holder Name",
+    "accountMobile": "Account Mobile",
+    "accountNo": "Account No",
+    "accountType": "Account Type",
+    "accounts": "Accounts",
+    "action": "Action",
+    "address": "Address",
+    "alertQuantity": "Alert Quantity",
+    "amount": "Amount",
+    "attachments": "Attachments",
+    "availableRoles": "Roles",
+    "balance": "Balance",
+    "bank": "Bank",
+    "bankName": "Bank Name",
+    "baseUnit": "Base Unit",
+    "baseUnitId": "Base Unit",
+    "batch": "Batch",
+    "batchId": "Batch",
+    "batchNo": "Batch No",
+    "branchName": "Branch Name",
+    "brand": "Brand",
+    "category": "Category",
+    "categoryName": "Category Name",
+    "change": "Change",
+    "chargeAmount": "Charge Amount",
+    "chargeName": "Charge Name",
+    "chargeType": "Charge Type",
+    "chargedBy": "Charged By",
+    "city": "City",
+    "client": "Client",
+    "clientID": "Client ID",
+    "clientName": "Client Name",
+    "code": "Code",
+    "color": "Color",
+    "company": "Company",
+    "companyInfo": "Company Info",
+    "confirmPassword": "Confirm Password",
+    "confirmedPass": "Confirm Password",
+    "contractEndDate": "Contract End Date",
+    "contractStartDate": "Contract Start Date",
+    "cost": "Cost",
+    "country": "Country",
+    "countryCode": "Country Code",
+    "countryName": "Country Name",
+    "createdAt": "Created At",
+    "createdBy": "Created By",
+    "creator": "Creator",
+    "currency": "Currency",
+    "currencyCode": "Currency Code",
+    "currencyName": "Currency Name",
+    "currencySymbol": "Currency Symbol",
+    "customer": "Customer",
+    "customerInfo": "Customer Info",
+    "customerName": "Customer",
+    "date": "Date",
+    "defaultCustomer": "Default Customer",
+    "description": "Description",
+    "designation": "Designation",
+    "discount": "Discount",
+    "discountType": "Discount Type",
+    "due": "Due",
+    "dueAmount": "Due Amount",
+    "dueDate": "Due Date",
+    "email": "Email",
+    "expDate": "Expire Date",
+    "expenseType": "Expense Type",
+    "expiredDate": "Expired Date",
+    "fax": "Fax",
+    "firstName": "First Name",
+    "generateInvoice": "Generate Invoice",
+    "grandTotal": "Grand Total",
+    "guardName": "Guard Name",
+    "id": "ID",
+    "image": "Image",
+    "industry": "Industry",
+    "interest": "Interest",
+    "invoice": "Invoice",
+    "invoiceDate": "Invoice Date",
+    "invoiceFooter": "Invoice Footer",
+    "invoiceNo": "Invoice No",
+    "invoiceSummary": "Invoice Summary",
+    "lastExpense": "Last Expense",
+    "lastLogin": "Last Login",
+    "lastName": "Last Name",
+    "loanType": "Loan Type",
+    "loaner": "Loaner",
+    "logo": "Logo",
+    "message": "Message",
+    "method": "Method",
+    "mfgDate": "Manufacture Date",
+    "mobile": "Mobile",
+    "mobileBank": "Mobile Bank",
+    "name": "Name",
+    "nidBack": "NID Back",
+    "nidFront": "NID Front",
+    "openingBalance": "Opening Balance",
+    "openingQuantity": "Opening Quantity",
+    "operator": "Operator",
+    "package": "Package",
+    "paid": "Paid",
+    "paidAmount": "Total Paid",
+    "paidBy": "Paid By",
+    "password": "Password",
+    "paymentAt": "Payment At",
+    "paymentMethod": "Payment Method",
+    "phone": "Phone",
+    "photo": "Photo",
+    "plan": "Plan",
+    "previousDue": "Previous Due",
+    "price": "Price",
+    "priority": "Priority",
+    "product": "Product",
+    "productId": "Product",
+    "productImage": "Product Image",
+    "productName": "Product Name",
+    "productType": "Product Type",
+    "products": "Products",
+    "profit": "Profit",
+    "profitable": "Profitable",
+    "purchaseRate": "Purchase Rate",
+    "purchaseUnits": "Purchase Units",
+    "quantity": "Quantity",
+    "rate": "Rate",
+    "reason": "Reason",
+    "receivedAmount": "Received Amount",
+    "recommended": "Recommended",
+    "resetAccount": "Reset Account",
+    "roles": "Roles",
+    "routingNo": "Routing No",
+    "saleAmount": "Sale Amount",
+    "saleInvoiceNo": "Sale Invoice No",
+    "saleRate": "Sale Rate",
+    "sellingRate": "Selling Rate",
+    "sellingUnits": "Selling Units",
+    "serviceType": "Service Type",
+    "shopName": "Shop Name",
+    "size": "Size",
+    "sizeAndColor": "Size and Color",
+    "sold": "Sold",
+    "statement": "Statement",
+    "status": "Status",
+    "stockBalance": "Stock Balance",
+    "storeIn": "Store In",
+    "subTotal": "Sub Total",
+    "subject": "Subject",
+    "subtotal": "Subtotal",
+    "supplier": "Supplier",
+    "supplierInfo": "Supplier Info",
+    "supplierName": "Supplier Name",
+    "symbol": "Symbol",
+    "telephone": "Telephone",
+    "total": "Total",
+    "totalAmount": "Total Amount",
+    "totalCharge": "Total Charge",
+    "totalCost": "Total Cost",
+    "totalDiscount": "Total Discount",
+    "totalDue": "Total Due",
+    "totalInvoice": "Total Invoice",
+    "totalItems": "Total Items",
+    "totalLoan": "Total Loan",
+    "totalPaid": "Total Paid",
+    "totalPayment": "Total Payment",
+    "totalProduct": "Total Product",
+    "totalPurchase": "Total Purchase",
+    "totalPurchaseRate": "Total PurchaseRate",
+    "totalQuantity": "Total Quantity",
+    "totalReturn": "Total Return",
+    "totalSale": "Total Sale",
+    "totalSell": "Total Sell",
+    "totalSellingAmount": "Total Selling Amount",
+    "totalSellingRate": "Total Selling Rate",
+    "totalStock": "Total Stock",
+    "totalUser": "Total User",
+    "totalWithdraw": "Total Withdraw",
+    "transitions": "Transitions",
+    "type": "Type",
+    "unit": "Unit",
+    "unitCode": "Unit Code",
+    "unitId": "Unit",
+    "unitName": "Unit",
+    "updatedAt": "Updated At",
+    "value": "Value",
+    "vatNumber": "Vat Number",
+    "website": "Website",
+    "withdrawDate": "Withdraw Date",
+    "withdraws": "Withdraws"
+  },
+  "@headings": {
+    "addProductCategory": "Add Product Category",
+    "batches": "Batches",
+    "expenseCategoriesReport": "Expense Categories Report",
+    "expenseInvoiceSummary": "Expense Invoice Summary",
+    "expenseInvoicesReport": "Expense Invoice Report",
+    "expiredProducts": "Expired Products",
+    "fields": "Fields",
+    "invoiceSummary": "Invoice Summary",
+    "manageStocks": "Manage Stocks",
+    "modules": "Modules",
+    "paymentSettings": "Payment Settings",
+    "payments": "Payments",
+    "purchaseInvoiceEdit": "Purchase Invoice Edit",
+    "purchaseInvoiceReport": "Purchase Invoice Report",
+    "purchaseInvoiceSummary": "Purchase Invoice Summary",
+    "purchaseItemEdit": "Purchase Item Edit",
+    "purchaseItems": "Purchase Items",
+    "returnInvoiceSummary": "Return Invoice Summary",
+    "returnItems": "Return Items",
+    "saleInvoiceSummary": "Sale Invoice Summary",
+    "saleInvoices": "Sale Invoices",
+    "saleInvoicesReport": "Sale Invoices Report",
+    "saleItemsReport": "Sale Items Report",
+    "stockReport": "Stock Report",
+    "suppliersReport": "Suppliers Report"
+  },
+  "@industries": {
+    "label": "Industry",
+    "title": {
+      "add": "Add new Industry",
+      "details": "Industry Details",
+      "edit": "Edit Industry"
+    }
+  },
+  "@invoice": {
+    "label": "Invoice",
+    "title": {
+      "add": "New Invoice",
+      "details": "Invoice Details",
+      "edit": "Edit Invoice",
+      "manage": "Manage Invoice"
+    }
+  },
+  "@loanInvoice": {
+    "label": "Loan Invoice",
+    "title": {
+      "add": "New Loan Invoice",
+      "details": "Loan Invoice Details",
+      "edit": "Edit Loan Invoice",
+      "manage": "Manage Loan Invoice"
+    }
+  },
+  "@loaners": {
+    "label": "Loaner",
+    "title": {
+      "add": "New Loaner",
+      "details": "Loaner Details",
+      "edit": "Edit Loaner",
+      "manage": "Manage Loaners"
+    }
+  },
+  "@loans": {
+    "label": "Loan",
+    "title": {
+      "add": "New Loan",
+      "details": "Loan Details",
+      "edit": "Edit Loan",
+      "manage": "Manage Loans"
+    }
+  },
+  "@menu": {
+    "accounts": "Accounts",
+    "addAccount": "Add Account",
+    "addAdmin": "Add Admin",
+    "addProduct": "Add Product",
+    "addSale": "New Sales",
+    "addStaff": "Add Staff",
+    "admins": "Admins",
+    "banks": "Banks",
+    "categories": "Categories",
+    "charges": "Charges",
+    "clients": "Clients",
+    "countries": "Countries",
+    "createCustomer": "Add Customer",
+    "createLoan": "Add Loan",
+    "createSupplier": "Add Supplier",
+    "currencySettings": "Currency Settings",
+    "customers": "Customers",
+    "dashboard": "Dashboard",
+    "expenseCategories": "Expense Categories",
+    "expenseInvoices": "Expense Invoices",
+    "expenseType": "Expense Type",
+    "expenses": "Expenses",
+    "expiredProducts": "Expired Products",
+    "finance": "Finance",
+    "generalSettings": "General Settings",
+    "industries": "Industries",
+    "invoices": "Invoices",
+    "loan": "Loan",
+    "loaners": "Loaners",
+    "loans": "Loans",
+    "manageAccounts": "Manage Accounts",
+    "manageAdmins": "Manage Admins",
+    "manageCategories": "Manage Categories",
+    "manageCharges": "Manage Charges",
+    "manageClients": "Manage Clients",
+    "manageCustomer": "Manage Customers",
+    "manageInvoices": "Manage Invoices",
+    "manageLoans": "Manage Loan",
+    "manageProducts": "Manage Products",
+    "manageRoles": "Manage Roles",
+    "manageSales": "Manage Sales",
+    "manageServices": "Manage Services",
+    "manageStaffs": "Manage Staffs",
+    "manageStocks": "Manage Stocks",
+    "manageSupplier": "Manage Suppliers",
+    "mobileBanks": "Mobile Banks",
+    "packageTransaction": "Package Transaction",
+    "packages": "Packages",
+    "paymentSettings": "Payment Settings",
+    "products": "Products",
+    "purchaseInvoices": "Purchase Invoices",
+    "report": "Report",
+    "resources": "Resources",
+    "returnInvoices": "Return Invoices",
+    "roles": "Roles",
+    "saleInvoices": "Sale Invoices",
+    "saleItems": "Sale Items",
+    "sales": "Sales",
+    "services": "Services",
+    "settings": "Settings",
+    "staffs": "Staffs",
+    "stockReport": "Stock Report",
+    "suppliers": "Suppliers",
+    "support": "Support",
+    "tickets": "Tickets",
+    "units": "Manage Units",
+    "unverifiedClients": "Unverified Clients",
+    "users": "Users",
+    "verifiedClients": "Verified Clients",
+    "withdraws": "Withdraws"
+  },
+  "@mobileBanks": {
+    "label": "Mobile Banks",
+    "title": {
+      "add": "New Mobile Bank",
+      "details": "Mobile Bank Details",
+      "edit": "Edit Mobile Bank",
+      "manage": "Manage Mobile Banks"
+    }
+  },
+  "@modules": {
+    "label": "Modules",
+    "title": {
+      "add": "Add new Module",
+      "details": "Module Details",
+      "edit": "Edit Module"
+    }
+  },
+  "@packageTransaction": {
+    "label": "Package Transactions",
+    "title": {
+      "add": "New Package Transactions",
+      "details": "Package Transactions Details",
+      "edit": "Edit Package Transactions",
+      "manage": "Manage Package Transactions"
+    }
+  },
+  "@packages": {
+    "label": "Packages",
+    "title": {
+      "add": "New Package",
+      "details": "Package Details",
+      "edit": "Edit Package",
+      "manage": "Manage Packages"
+    }
+  },
+  "@payments": {
+    "label": "Payments Info",
+    "title": {
+      "add": "New Payments",
+      "details": "Payments Details",
+      "edit": "Edit Payments",
+      "manage": "Manage Payments"
+    }
+  },
+  "@placeholder": {
+    "beNotifiedLow": "Be notified when inventory runs low",
+    "colorOfThisProduct": "Color Of this Product",
+    "enterYourBatch": "Enter Your Batch/Serial/IME/SKU",
+    "howManyProductStore": "How many product you want to adding your store",
+    "productBrandName": "Product brand name",
+    "salePriceForCustomer": "Sale price for customer",
+    "search": "Search...",
+    "sizeOfThisProduct": "Size of this product",
+    "whereProductwillbeStore": "Where product will be Store",
+    "yourBuyingPrice": "Your buying price",
+    "yourProductName": "Your Product Name",
+    "yourUniqueNumber": "Your Unique Number"
+  },
+  "@products": {
+    "label": "Products",
+    "title": {
+      "add": "New Product",
+      "details": "Product Details",
+      "edit": "Edit Product",
+      "mostReturn": "Most Return  Product",
+      "mostSelling": "Most Selling  Product"
+    }
+  },
+  "@profile": {
+    "label": "Profile",
+    "title": {
+      "details": "Profile Details",
+      "edit": "Update Profile"
+    }
+  },
+  "@purchaseInvoices": {
+    "label": "Purchase Invoices",
+    "title": {
+      "add": "New Purchase Invoice",
+      "details": "Purchase Invoice Details",
+      "edit": "Edit Purchase Invoice",
+      "manage": "Manage Purchase Invoices"
+    }
+  },
+  "@returnInvoices": {
+    "label": "Return Invoices",
+    "title": {
+      "add": "New Return Invoice",
+      "details": "Return Invoice Details",
+      "edit": "Edit Return Invoice",
+      "manage": "Manage Return Invoices"
+    }
+  },
+  "@roles": {
+    "label": "Roles",
+    "title": {
+      "add": "New Roles",
+      "details": "Roles Details",
+      "edit": "Edit Roles",
+      "manage": "Manage Roles"
+    }
+  },
+  "@sales": {
+    "label": "Sale",
+    "title": {
+      "add": "New Sale",
+      "details": "Sale Details",
+      "edit": "Edit Sale",
+      "manage": "Manage Sales"
+    }
+  },
+  "@salesInvoice": {
+    "label": "Sales Invoice",
+    "title": {
+      "add": "New Sales Invoice",
+      "details": "Sales Invoice Details",
+      "edit": "Edit Sales Invoice"
+    }
+  },
+  "@serviceCategories": {
+    "label": "Service Categories",
+    "title": {
+      "add": "New Service Category",
+      "details": "Service Category Details",
+      "edit": "Edit Service Category",
+      "manage": "Manage Service Categories"
+    }
+  },
+  "@services": {
+    "label": "Services",
+    "title": {
+      "add": "New Services",
+      "details": "Services Details",
+      "edit": "Edit Services",
+      "manage": "Manage Services"
+    }
+  },
+  "@settings": {
+    "label": "Settings",
+    "title": {
+      "details": "User Settings",
+      "edit": "Edit Settings"
+    }
+  },
+  "@staffs": {
+    "label": "Staff",
+    "title": {
+      "add": "New Staff",
+      "details": "Staff Details",
+      "edit": "Edit Staff",
+      "manage": "Manage Staffs"
+    }
+  },
+  "@suppliers": {
+    "label": "Supplier",
+    "title": {
+      "add": "New Supplier",
+      "details": "Supplier Details",
+      "edit": "Edit Supplier"
+    }
+  },
+  "@supportCategories": {
+    "label": "Support Categories",
+    "title": {
+      "add": "Create Support Category",
+      "details": "Support Category Details",
+      "edit": "Edit Support Category",
+      "manage": "Manage Support Categories"
+    }
+  },
+  "@tickets": {
+    "label": "Tickets",
+    "title": {
+      "add": "Create Ticket",
+      "details": "Ticket Details",
+      "edit": "Edit Tickets",
+      "manage": "Manage Tickets"
+    }
+  },
+  "@unit": {
+    "label": "Unit",
+    "title": {
+      "add": "New Unit",
+      "details": "Unit Details",
+      "edit": "Edit Unit",
+      "manage": "Manage Unit"
+    }
+  },
+  "@users": {
+    "label": "Users",
+    "title": {
+      "add": "Create User",
+      "details": "User Details",
+      "edit": "Edit User",
+      "manage": "Manage Users"
+    }
+  },
+  "@wallet": {
+    "label": "My Wallet"
+  },
+  "welcome": "Welcome",
+  "@withdraw": {
+    "label": "Withdraw",
+    "title": {
+      "add": "New Withdraw",
+      "manage": "Manage Withdraws"
+    }
+  }
+}

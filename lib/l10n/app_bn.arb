@@ -1,0 +1,443 @@
+{
+   "newKey" :"নতুন",
+  "@accounts": {
+    "label": "Accounts",
+    "title": {
+      "add": "New Account",
+      "details": "Account Details",
+      "edit": "Edit Account",
+      "manage": "Manage Accounts"
+    }
+  },
+  "@admins": {
+    "label": "Admins",
+    "title": {
+      "add": "New Admin",
+      "details": "Admin Details",
+      "edit": "Edit Admin",
+      "manage": "Manage Admins"
+    }
+  },
+  "banks": {
+    "label": "ব্যাংক",
+    "title": {
+      "add": "নতুন ব্যাংক",
+      "details": "ব্যাংক ডিটেলস",
+      "edit": "এডিট ব্যাংক",
+      "manage": "ব্যাংক পরিচালনা"
+    }
+  },
+  "barcode": {
+    "label": "বারকোড",
+    "title": {
+      "details": "বারকোড ডিটেলস"
+    }
+  },
+  "buttons": {
+    "add": "অ্যাড",
+    "cancel": "বাতিল",
+    "create": "তৈরি",
+    "createContinue": "তৈরি & কন্টিনিউ",
+    "createPrint": "তৈরি এবং ছাপা",
+    "save": "Save",
+    "submit": "জমা দিন",
+    "update": "আপডেট",
+    "updateContinue": "আপডেট & কন্টিনিউ"
+  },
+  "categories": {
+    "label": "ক্যাটাগরি",
+    "title": {
+      "add": "নতুন ক্যাটাগরি যুক্ত করুন",
+      "details": "ক্যাটাগরি ডিটেলস",
+      "edit": "এডিট ক্যাটাগরি"
+    }
+  },
+  "charges": {
+    "label": "চার্জ",
+    "title": {
+      "add": "নতুন চার্জ",
+      "details": "চার্জ ডিটেলস",
+      "edit": "এডিট চার্জ"
+    }
+  },
+  "clients": {
+    "label": "ক্লায়েন্ট",
+    "title": {
+      "add": "নতুন ক্লায়েন্ট",
+      "details": "ক্লায়েন্ট ডিটেলস",
+      "edit": "এডিট ক্লায়েন্ট",
+      "manage": "ক্লায়েন্ট পরিচালনা"
+    }
+  },
+  "conversions": {
+    "label": "রূপান্তর",
+    "title": {
+      "add": "নতুন রূপান্তর",
+      "details": "রূপান্তর ডিটেলস",
+      "edit": "এডিট রূপান্তর"
+    }
+  },
+  "currencySettings": {
+    "label": "মুদ্রার সেটিংস",
+    "title": {
+      "edit": "এডিট মুদ্রার সেটিংস"
+    }
+  },
+  "customers": {
+    "label": "ক্রেতা",
+    "title": {
+      "add": "নতুন ক্রেতা",
+      "details": "ক্রেতা ডিটেলস",
+      "edit": "এডিট ক্রেতা"
+    }
+  },
+  "expenseCategories": {
+    "label": "ব্যয় বিভাগ",
+    "title": {
+      "add": "নতুন ব্যয় বিভাগ",
+      "details": "ব্যয় বিভাগ ডিটেলস",
+      "edit": "এডিট ব্যয় বিভাগ"
+    }
+  },
+  "expenseInvoices": {
+    "label": "ব্যয় চালান",
+    "title": {
+      "add": "নতুন ব্যয় চালান",
+      "details": "ব্যয় চালান ডিটেলস",
+      "edit": "এডিট ব্যয় চালান"
+    }
+  },
+  "fields": {
+    "account": "Account",
+    "accountEmail": "Account Email",
+    "accountHolderName": "Account Holder Name",
+    "accountMobile": "Account Mobile",
+    "accountNo": "Account No",
+    "accountType": "Account Type",
+    "accounts": "Accounts",
+    "action": "অ্যাকশন",
+    "address": "ঠিকানা",
+    "alertQuantity": "সতর্কতা পরিমাণ",
+    "amount": "পরিমাণ",
+    "attachments": "Attachments",
+    "availableRoles": "ভূমিকা",
+    "balance": "Balance",
+    "bank": "ব্যাংক",
+    "bankName": "Bank Name",
+    "baseUnit": "বেস ইউনিট",
+    "baseUnitId": "বেস ইউনিট",
+    "batch": "ব্যাচ",
+    "batchId": "ব্যাচ",
+    "batchNo": "ব্যাচ নাম্বার",
+    "branchName": "Branch Name",
+    "brand": "ব্র্যান্ড",
+    "category": "ক্যাটাগরি",
+    "categoryName": "ক্যাটাগরি",
+    "chargeAmount": "চার্জ পরিমাণ",
+    "chargeName": "চার্জ নাম",
+    "chargeType": "চার্জ প্রকার",
+    "chargedBy": "Charged By",
+    "city": "সিটি",
+    "clientName": "Client Name",
+    "code": "কোড",
+    "color": "রঙ",
+    "company": "প্রতিষ্ঠান",
+    "companyInfo": "প্রতিষ্ঠানের তথ্য",
+    "confirmPassword": "কন্ফার্ম পাসওয়ার্ড",
+    "confirmedPass": "Confirm Password",
+    "contractEndDate": "চুক্তির সমাপ্তির তারিখ",
+    "contractStartDate": "চুক্তি শুরুর তারিখ",
+    "country": "দেশ",
+    "countryCode": "কান্ট্রি কোড",
+    "countryName": "দেশের নাম",
+    "createdAt": "Created At",
+    "currency": "কারেন্সী",
+    "currencyCode": "মুদ্রা কোড",
+    "currencyName": "মুদ্রার নাম",
+    "currencySymbol": "মুদ্রার প্রতীক",
+    "customer": "ক্রেতা",
+    "customerInfo": "গ্রাহক তথ্য",
+    "customerName": "ক্রেতা",
+    "date": "তারিখ",
+    "defaultCustomer": "ডিফল্ট গ্রাহক",
+    "description": "বর্ণনা",
+    "designation": "উপাধি",
+    "discount": "ডিসকাউন্ট",
+    "discountType": "ডিসকাউন্ট ধরণ",
+    "due": "বাকি",
+    "dueAmount": "বাকি মোট",
+    "dueDate": "নির্দিষ্ট তারিখ",
+    "email": "ইমেইল",
+    "expDate": "মেয়াদ শেষ তারিখ",
+    "fax": "ফ্যাক্স",
+    "firstName": "প্রথম নাম",
+    "generateInvoice": "চালান উত্পন্ন",
+    "grandTotal": "সর্বমোট",
+    "guardName": "গার্ডের নাম",
+    "id": "আইডি",
+    "industry": "ইন্ডাস্ট্রি",
+    "interest": "স্বার্থ",
+    "invoiceDate": "চালান তারিখ",
+    "invoiceNo": "চালান নং",
+    "invoiceSummary": "চালানের সংক্ষিপ্তসার",
+    "lastLogin": "শেষ লগইন",
+    "lastName": "শেষ নাম",
+    "loanType": "ঋণের ধরণ",
+    "loaner": "ঋণদাতা",
+    "mfgDate": "উত্পাদন তারিখ",
+    "mobile": "মোবাইল",
+    "name": "নাম",
+    "nidBack": "NID Back",
+    "nidFront": "NID Front",
+    "openingBalance": "শুরুতে ব্যালেন্স",
+    "openingQuantity": "শুরুতে পরিমাণ",
+    "operator": "অপারেটর",
+    "paidAmount": "সর্বমোট পরিশোধ",
+    "password": "পাসওয়ার্ড",
+    "paymentAt": "Payment At",
+    "paymentMethod": "মূল্যপরিশোধ পদ্ধতি",
+    "phone": "ফোন",
+    "product": "পণ্য",
+    "productId": "পণ্য",
+    "productName": "পণ্যের নাম",
+    "products": "পণ্য",
+    "profitable": "Profitable",
+    "purchaseRate": "ক্রয়ের হার",
+    "purchaseUnits": "ক্রয় ইউনিট",
+    "quantity": "পরিমাণ",
+    "rate": "হার",
+    "reason": "Reason",
+    "roles": "ভূমিকা",
+    "routingNo": "Routing No",
+    "saleInvoiceNo": "চালান নম্বর",
+    "sellingRate": "বিক্রি হার",
+    "sellingUnits": "বিক্রয় ইউনিট",
+    "serviceType": "Service Type",
+    "shopName": "শপের নাম",
+    "size": "আকার",
+    "sizeAndColor": "আকার এবং রঙ",
+    "status": "স্টেটাস",
+    "storeIn": "সঞ্চয়",
+    "subTotal": "সাব টোটাল",
+    "supplier": "সরবরাহকারী",
+    "supplierInfo": "সরবরাহকারীর তথ্য",
+    "supplierName": "সরবরাহকারীর নাম",
+    "telephone": "টেলিফোন",
+    "total": "মোট",
+    "totalAmount": "সর্বমোট পরিমাণ",
+    "totalDiscount": "মোট ডিসকাউন্ট",
+    "totalDue": "মোট বাকি",
+    "totalPaid": "মোট পরিশোধ ",
+    "totalPayment": "মোট পরিশোধ",
+    "totalProduct": "মোট পণ্য",
+    "totalQuantity": "মোট পরিমাণ",
+    "totalUser": "মোট ব্যবহারকারী",
+    "totalWithdraw": "Total Withdraw",
+    "type": "ধরণ",
+    "unit": "ইউনিট",
+    "unitCode": "ইউনিট কোড",
+    "unitId": "ইউনিট",
+    "unitName": "ইউনিট",
+    "updatedAt": "Updated At",
+    "value": "মান",
+    "vatNumber": "ভ্যাট নম্বর",
+    "website": "ওয়েবসাইট",
+    "withdrawDate": "Withdraw data"
+  },
+  "headings": {
+    "addProductCategory": "পণ্য বিভাগ যুক্ত করুন",
+    "batches": "ব্যাচ",
+    "fields": "ফিল্ডস",
+    "manageStocks": "স্টক পরিচালনা করুন",
+    "modules": "মডিউল",
+    "payments": "Payments",
+    "purchaseInvoiceEdit": "চালান এডিট",
+    "purchaseItemEdit": "ক্রয় আইটেম সম্পাদনা",
+    "purchaseItems": "আইটেম ক্রয়",
+    "returnItems": "ফেরত মালামাল"
+  },
+  "industries": {
+    "label": "ইন্ডাস্ট্রি",
+    "title": {
+      "add": "অ্যাড নিউ ইন্ডাস্ট্রি",
+      "details": "ইন্ডাস্ট্রি ডিটেলস",
+      "edit": "এডিট ইন্ডাস্ট্রি"
+    }
+  },
+  "invoice": {
+    "label": "চালান",
+    "title": {
+      "add": "নতুন চালান",
+      "details": "চালান ডিটেলস",
+      "edit": "এডিট চালান",
+      "manage": "চালান পরিচালনা"
+    }
+  },
+  "loaners": {
+    "label": "ঋণদাতা",
+    "title": {
+      "add": "নতুন ঋণদাতা",
+      "details": "ঋণদাতা ডিটেলস",
+      "edit": "এডিট ঋণদাতা",
+      "manage": "ঋণদাতা পরিচালনা"
+    }
+  },
+  "loans": {
+    "label": "ঋণ",
+    "loaners": "ঋণ",
+    "title": {
+      "add": "নতুন ঋণ",
+      "details": "ঋণ ডিটেলস",
+      "edit": "এডিট ঋণ",
+      "manage": "ঋণ পরিচালনা"
+    }
+  },
+  "menu": {
+    "accounts": "হিসাব",
+    "addAccount": "নতুন হিসাব",
+    "addProduct": "পণ্য যুক্ত করুন",
+    "addSale": "নতুন বিক্রয়",
+    "addStaff": "নতুন কর্মী",
+    "categories": "ক্যাটাগরি",
+    "charges": "চার্জ",
+    "clients": "ক্লায়েন্ট",
+    "createCustomer": "গ্রাহক যুক্ত করুন",
+    "createLoan": "নতুন ঋণ",
+    "createSupplier": "সরবরাহকারী তৈরি",
+    "currencySettings": "কারেন্সী সেটিংস",
+    "customers": "গ্রাহক",
+    "dashboard": "ড্যাশবোর্ড",
+    "expenseCategories": "খরচের ধরণ",
+    "expenseInvoices": "খরচের চালান",
+    "expenses": "খরচ",
+    "finance": "ফাইন্যান্স",
+    "generalSettings": "সাধারণ সেটিংস",
+    "industries": "ইন্ডাস্ট্রিস",
+    "loan": "ঋণ",
+    "loaners": "ঋণদাতা",
+    "manageAccounts": "হিসাব পরিচালনা করুন",
+    "manageCategories": "Manage Categories",
+    "manageCharges": "চার্জ",
+    "manageCustomer": "গ্রাহক পরিচালনা",
+    "manageInvoices": "চালান পরিচালনা",
+    "manageLoans": "ঋণ পরিচালনা",
+    "manageProducts": "পণ্য পরিচালনা",
+    "manageRoles": "ভূমিকা পরিচালনা করুন",
+    "manageSales": "বিক্রয় পরিচালনা",
+    "manageServices": "Manage Services",
+    "manageStaffs": "কর্মী পরিচালনা",
+    "manageStocks": "স্টক পরিচালনা",
+    "manageSupplier": "সরবরাহকারী পরিচালনা",
+    "paymentSettings": "পেমেন্ট সেটিংস",
+    "products": "পণ্য",
+    "report": "রিপোর্ট",
+    "returnInvoices": "চালান ফেরত",
+    "roles": "ভূমিকা",
+    "saleInvoices": "বিক্রয় চালান",
+    "sales": "বিক্রয়",
+    "services": "Services",
+    "settings": "সেটিংস",
+    "staffs": "কর্মী",
+    "suppliers": "সরবরাহকারী",
+    "units": "ইউনিট পরিচালনা",
+    "users": "ব্যবহারকারী",
+    "withdraws": "Withdraws"
+  },
+  "payments": {
+    "label": "Payments Info",
+    "title": {
+      "add": "New Payments",
+      "details": "Payments Details",
+      "edit": "Edit Payments",
+      "manage": "Manage Payments"
+    }
+  },
+  "placeholder": {
+    "search": "সার্চ করুন..."
+  },
+  "products": {
+    "label": "পণ্য",
+    "title": {
+      "add": "নতুন পণ্য যুক্ত করুন",
+      "details": "পণ্য ডিটেলস",
+      "edit": "এডিট পণ্য"
+    }
+  },
+  "roles": {
+    "label": "ভূমিকা",
+    "title": {
+      "add": "নতুন ভূমিকা",
+      "details": "ভূমিকা ডিটেলস",
+      "edit": "এডিট ভূমিকা",
+      "manage": "ভূমিকা পরিচালনা"
+    }
+  },
+  "sales": {
+    "label": "বিক্রয়",
+    "title": {
+      "add": "নতুন বিক্রয়",
+      "details": "বিক্রয় ডিটেলস",
+      "edit": "এডিট বিক্রয়",
+      "manage": "বিক্রয় পরিচালনা"
+    }
+  },
+  "services": {
+    "label": "সেবা",
+    "title": {
+      "add": "নতুন সেবা",
+      "details": "সেবা ডিটেলস",
+      "edit": "এডিট সেবা",
+      "manage": "সেবা পরিচালনা"
+    }
+  },
+  "settings": {
+    "label": "সেটিংস",
+    "title": {
+      "details": "ইউসার সেটিংস",
+      "edit": "এডিট  সেটিংস"
+    }
+  },
+  "staffs": {
+    "label": "কর্মী",
+    "title": {
+      "add": "নতুন কর্মী",
+      "details": "কর্মী ডিটেলস",
+      "edit": "এডিট কর্মী",
+      "manage": "কর্মী পরিচালনা"
+    }
+  },
+  "suppliers": {
+    "label": "সরবরাহকারী",
+    "title": {
+      "add": "নতুন সরবরাহকারী যুক্ত করুন",
+      "details": "সরবরাহকারী ডিটেলস",
+      "edit": "এডিট সরবরাহকারী"
+    }
+  },
+  "unit": {
+    "label": "ইউনিট",
+    "title": {
+      "add": "নতুন ইউনিট যুক্ত করুন",
+      "details": "ইউনিট ডিটেলস",
+      "edit": "এডিট ইউনিট",
+      "manage": "ইউনিট পরিচালনা"
+    }
+  },
+  "users": {
+    "label": "ইউসার",
+    "title": {
+      "add": "ইউসার তৈরি করুন",
+      "details": "ইউসার ডিটেলস",
+      "edit": "এডিট ইউসার",
+      "manage": "ইউসার পরিচালনা"
+    }
+  },
+  "welcome": "স্বাগতম",
+  "withdraw": {
+    "label": "Withdraw",
+    "title": {
+      "add": "New Withdraw",
+      "manage": "Manage Withdraw"
+    }
+  }
+}
